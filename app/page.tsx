@@ -14,15 +14,6 @@ export default function Home() {
         <Encryption />
         <Projects />
       </div>
-      <div className="absolute z-40 opacity-30 top-[23rem] flex items-center free">
-        <Image
-          src="/ohhh.jpg"
-          height={600}
-          width={600}
-          className="object-contain z-40 top-[14rem] object-center w-full h-full"
-          alt="object"
-        />
-      </div>
     </main>
   );
 }
