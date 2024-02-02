@@ -52,7 +52,7 @@ const Encryption = () => {
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px] mt-10">
-        <div className="cursive text-[20px] font-medium text-center z-15 text-gray-300">
+        <div className="cursive pt-6 text-[20px] font-medium text-center z-15 text-gray-300">
           Easy and customiseable Designs
         </div>
       </div>
